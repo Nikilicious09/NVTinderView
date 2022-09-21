@@ -10,12 +10,20 @@ import SwiftUI
 struct ContentView: View {
     
     var body: some View {
-        VStack {
-            TopBarView()
-    
-            CardView()
-
-            BottomBar()
+        
+        ScrollView {
+            VStack {
+                /*
+                 TopBarView()
+                 
+                 CardView()
+                 
+                 BottomBar()
+                 */
+                
+                GridsCard()
+                
+            }
         }
     }
 }
