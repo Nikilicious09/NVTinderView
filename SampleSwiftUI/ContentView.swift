@@ -11,20 +11,15 @@ struct ContentView: View {
     
     var body: some View {
         
-        ScrollView {
-            VStack {
-                /*
-                 TopBarView()
-                 
-                 CardView()
-                 
-                 BottomBar()
-                 */
-                
-                GridsCard()
-                
-            }
-        }
+        TinderSwipeAnimation()
+        /*
+         TopBarView()
+         
+         CardView()
+         
+         BottomBar()
+         */
+        // GridsCard()
     }
 }
 

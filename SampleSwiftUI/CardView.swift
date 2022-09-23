@@ -8,10 +8,11 @@
 import SwiftUI
 
 struct CardView: View {
+        
     var body: some View {
         GeometryReader { geometery in
             ZStack {
-                ForEach(0..<5) { image in
+                ForEach(1..<5) { image in
                     Image("\(image)")
                         .resizable()
                         .cornerRadius(10)

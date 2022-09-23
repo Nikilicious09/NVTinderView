@@ -15,6 +15,7 @@
 		F9337CF528D9A35E0074D50D /* BottomBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9337CF428D9A35E0074D50D /* BottomBar.swift */; };
 		F9337CF728D9A3EE0074D50D /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9337CF628D9A3EE0074D50D /* CardView.swift */; };
 		F9D464A728DAEAAA00D62BC7 /* GridsCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9D464A628DAEAAA00D62BC7 /* GridsCard.swift */; };
+		F9D464A928DB25D400D62BC7 /* TinderSwipeAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9D464A828DB25D400D62BC7 /* TinderSwipeAnimation.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		F9337CF428D9A35E0074D50D /* BottomBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BottomBar.swift; sourceTree = "<group>"; };
 		F9337CF628D9A3EE0074D50D /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
 		F9D464A628DAEAAA00D62BC7 /* GridsCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridsCard.swift; sourceTree = "<group>"; };
+		F9D464A828DB25D400D62BC7 /* TinderSwipeAnimation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TinderSwipeAnimation.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +67,7 @@
 				F9337CF428D9A35E0074D50D /* BottomBar.swift */,
 				F9337CF628D9A3EE0074D50D /* CardView.swift */,
 				F9D464A628DAEAAA00D62BC7 /* GridsCard.swift */,
+				F9D464A828DB25D400D62BC7 /* TinderSwipeAnimation.swift */,
 				F9337CE828D998540074D50D /* Assets.xcassets */,
 				F9337CEA28D998540074D50D /* Preview Content */,
 			);
@@ -150,6 +153,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F9337CF528D9A35E0074D50D /* BottomBar.swift in Sources */,
+				F9D464A928DB25D400D62BC7 /* TinderSwipeAnimation.swift in Sources */,
 				F9D464A728DAEAAA00D62BC7 /* GridsCard.swift in Sources */,
 				F9337CE728D998510074D50D /* ContentView.swift in Sources */,
 				F9337CF328D99ECD0074D50D /* TopBarView.swift in Sources */,
